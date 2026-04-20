@@ -1,0 +1,16 @@
+# Ambientes Virtuais
+venv/
+.env
+env/
+
+# Dados (Não subimos os dados brutos ou locais)
+data_bronze/
+data_silver/*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
