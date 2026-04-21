@@ -32,5 +32,8 @@ O pipeline foi estruturado em três camadas lógicas para garantir a governança
 4           04             70              9800.10
 ```
 
+## Resultado da análise de dados gold no Dashboard em tempo real:
+
+**![Dashboard](dashboard_resultado.png)**
 
 ## Project developed by Thamiris Ferreira 🐝
